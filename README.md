@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Rishav Raj
 
-<!--
-**rishav-raj905/rishav-raj905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI/ML) Student  
+💻 Learning Python, C, DSA & Web Development  
+🤖 Interested in AI/ML  
+🚀 Currently building projects and improving my coding skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- Python
+- DSA
+- HTML & CSS
+- Git & GitHub
+- AI/ML (Learning)
+
+## 📌 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Python
+- AI/ML
+
+## 🎯 Goal
+
+To become a skilled software developer and build useful projects.
+
