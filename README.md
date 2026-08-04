@@ -23,5 +23,5 @@
 
 ## 🎯 Goal
 
-To become a skilled software developer and build useful projects.
+To become a skilled software engineer or AI/ML engineer and build useful projects.
 
