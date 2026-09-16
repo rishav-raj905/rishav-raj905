@@ -62,6 +62,9 @@ Always looking to learn, build, and connect with fellow developers working on in
 
 # ✍️ Random Dev Quote:
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+### 💬 Developer Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&height=50&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Data+is+the+new+oil%2C+AI+is+the+engine.;Continuous+learning+is+the+key+to+innovation.;" alt="Dev Quotes" />
 </p>
+
