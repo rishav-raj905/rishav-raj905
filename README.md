@@ -14,6 +14,7 @@ Always looking to learn, build, and connect with fellow developers working on in
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rishav-raj905.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-raj-781735307)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavraaj358@gmail.com)
 
 ---
