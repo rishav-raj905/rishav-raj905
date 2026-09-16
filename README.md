@@ -50,9 +50,10 @@ Always looking to learn, build, and connect with fellow developers working on in
 
 ## 📊 GitHub Stats
 
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav-raj905&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rishav-raj905&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-raj905&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishav-raj905&layout=compact)
+
 
 ---
 
